@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 import { List, ListItem, Button } from './ContactList.styled';
 
 function ContactList({ contacts, onDelete }) {
